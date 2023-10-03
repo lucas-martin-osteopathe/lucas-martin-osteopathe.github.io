@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucas-martin-osteopathe.github.io/</loc>
+    <loc>https://lucas-martin-osteopathe.com/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/post/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/about/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/tags/dipl%C3%B4me/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/post/diplome-osteo/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/tags/ost%C3%A9opathie/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/tags/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/categories/</loc>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/tags/index/</loc>
+  </url><url>
+    <loc>https://lucas-martin-osteopathe.com/series/</loc>
   </url>
 </urlset>
