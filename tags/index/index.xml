@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Lucas MARTIN — Ostéopathe</title>
+    <link>https://lucas-martin-osteopathe.com/tags/index/</link>
+    <description>Recent content in index on Lucas MARTIN — Ostéopathe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="https://lucas-martin-osteopathe.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles</title>
+      <link>https://lucas-martin-osteopathe.com/post/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucas-martin-osteopathe.com/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
